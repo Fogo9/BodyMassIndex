@@ -20,7 +20,7 @@
 
 ```Java
 
-        public class bodymassindex{
+public class bodymassindex{
 
         public static void main(String[] args) {
 
@@ -34,7 +34,7 @@
 
 ```Java
 
-         System.out.print("Please enter your height (in meters) :");
+        System.out.print("Please enter your height (in meters) :");
 
         height = scan.nextDouble();
 
