@@ -23,6 +23,5 @@ public class bodymassindex{
         bmi = weight / (height * height);
 
         System.out.print("Your Body Mass Index :" + bmi);
-
     }
 }
