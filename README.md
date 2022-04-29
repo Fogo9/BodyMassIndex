@@ -1,14 +1,14 @@
 # **BODY MASS INDEX**
 
-# Information
+## INFORMATION
 
 * **You can find out your body mass index by entering height and weight information.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables weight was defined as **int**, height and body mass index as **double**.
 
@@ -16,9 +16,7 @@
 
 * Scanner scan class is defined.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -60,13 +58,13 @@ public class bodymassindex{
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/BodyMassIndex.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
