@@ -68,7 +68,7 @@ public class bodymassindex{
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
-<br />
+
 <br/>
 
 | Name |  Email |
